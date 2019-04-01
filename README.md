@@ -2,7 +2,7 @@
 
 > 在你的應用中加入 Touch ID 和 Face ID 的生物識別來進行身份驗證的功能。
 
-**This Medium Story link: Swift — 玩玩 Touch ID & FaceID 驗證**
+**This Medium Story link: [Swift — 玩玩 Touch ID & FaceID](https://medium.com/@JJeremy.XUE/swift-%E7%8E%A9%E7%8E%A9-touch-id-faceid-%E9%A9%97%E8%AD%89-d30be0ac803b) 驗證**
 
 **My Medium link: <https://medium.com/@JJeremy.XUE>**
 
@@ -30,3 +30,4 @@ Apple 官方文檔：
 
 * 使用 Touch ID 登入帳戶
 
+![image](https://github.com/JeremyXue77/Touch-ID-and-Face-ID-Logging/blob/master/Touch%20ID%20Login.gif)
